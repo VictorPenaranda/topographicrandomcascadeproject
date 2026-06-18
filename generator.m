@@ -19,13 +19,13 @@ function [W] = generator(varargin)
 %
 % Input arguments:
 %
-%       codi:       Codimension of the source field.
-%       gammaless:  Negative gamma exponent.
-%       gammaplus:  Positive gamma exponent.
+%       codi:       Codimension of the source field, DIM: [1x1].
+%       gammaless:  Negative gamma exponent, DIM: [1x1].
+%       gammaplus:  Positive gamma exponent, DIM: [1x1].
 %
 % Output arguments:
 %
-%       W:          Multipliers of the random cascade model.
+%       W:          Multipliers of the random cascade model, DIM: [2x2].
 %
 % Last update: June 18, 2026
 % Authors:  Victor Penaranda-Velez (victor.penaranda[at]atmosfera.unam.mx)
@@ -79,3 +79,6 @@ else
     error('Incorrect number of input variables')
 
 end
+
+%---------------------------------------------------------------------------
+%---------------------------------------------------------------------------
