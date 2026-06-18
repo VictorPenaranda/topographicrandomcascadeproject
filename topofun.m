@@ -32,8 +32,10 @@ function [ftop] = topofun(varargin)
 %
 %   ftop:   matrix of topographic-enhancement values.
 %
-% Last update: Jun 18th, 2026. 
-%
+% Last update: June 18, 2026. 
+% Authors:  Victor Penaranda-Velez (victor.penaranda[at]atmosfera.unam.mx)
+%           Carlos A. Ochoa-Moya (carlos.ochoa@atmosfera.unam.mx)
+%           Arturo I. Quintanar (arturo.quintanar@atmosfera.unam.mx)
 % ---------------------------------------------------------------------- 
 % ---------------------------------------------------------------------- 
 
