@@ -29,8 +29,8 @@ function [W] = generator(varargin)
 %
 % Last update: June 18, 2026
 % Authors:  Victor Penaranda-Velez (victor.penaranda[at]atmosfera.unam.mx)
-%           Carlos A. Ochoa-Moya (carlos.ochoa@atmosfera.unam.mx)
-%           Arturo I. Quintanar (arturo.quintanar@atmosfera.unam.mx)
+%           Carlos A. Ochoa-Moya (carlos.ochoa[at]atmosfera.unam.mx)
+%           Arturo I. Quintanar (arturo.quintanar[at]atmosfera.unam.mx)
 %---------------------------------------------------------------------------
 %---------------------------------------------------------------------------
 
