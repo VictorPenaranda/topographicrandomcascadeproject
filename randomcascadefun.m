@@ -7,7 +7,7 @@ function [pfield1] = randomcascadefun(varargin)
 %
 % Syntax:
 %
-%       randomcascadefun(pfield0,Nsta,Nsim)
+%    pfield1 = randomcascadefun(pfield0,Nsta,Nsim)
 %
 % Description:
 %
@@ -29,10 +29,10 @@ function [pfield1] = randomcascadefun(varargin)
 %
 %    pfield1:  Simulated random-cascade field.
 %
-% Last update: June 18, 2026
-% Authors: 
-%      Victor Penaranda-Velez (victor.penaranda[at]atmosfera.unam.mx)
-%
+% Last update: June 18, 2026. 
+% Authors:  Victor Penaranda-Velez (victor.penaranda[at]atmosfera.unam.mx)
+%           Carlos A. Ochoa-Moya (carlos.ochoa[at]atmosfera.unam.mx)
+%           Arturo I. Quintanar (arturo.quintanar[at]atmosfera.unam.mx)
 %-----------------------------------------------------------------------
 %-----------------------------------------------------------------------
 
