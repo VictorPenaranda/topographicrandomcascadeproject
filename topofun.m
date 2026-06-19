@@ -30,7 +30,7 @@ function [ftop] = topofun(varargin)
 %
 % Output arguments:
 %
-%   ftop:   matrix of topographic-enhancement values.
+%   ftop:   matrix of topographic-enhanced function values.
 %
 % Last update: June 18, 2026. 
 % Authors:  Victor Penaranda-Velez (victor.penaranda[at]atmosfera.unam.mx)
