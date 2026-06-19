@@ -19,8 +19,8 @@ function [pfield3] = diffusionfun(varargin)
 %  epsilon:  Smoothing velocity parameter, DIM=[1x1].
 %  niter:    Number of iterations to conduct in the diffusion filter, 
 %            DIM=[1x1]. 
-%  ptol:     porcentage of tolerance in the mean field value difference 
-%            between the original and filter fields, DIM=[1x1].
+%  ptol:     Porcentage of tolerance in the mean field value difference 
+%            between the original and filtered fields, DIM=[1x1].
 %
 % Output arguments:
 %
