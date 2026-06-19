@@ -21,13 +21,13 @@ function [pfield1] = randomcascadefun(varargin)
 %
 % Input arguments:
 %
-%    pfield0:  Coarse-scale precipitation field.
-%    Nsta:     Number of stages in the multiplicative process.
-%    Nsim:     Number of realizations of the random cascade model.
+%    pfield0: Coarse-scale precipitation field, DIM=[NxN].
+%    Nsta:    Number of stages in the multiplicative process, DIM=[1x1].
+%    Nsim:    Number of realizations of the random cascade model, DIM=[1x1].
 %
 % Output arguments:
 %
-%    pfield1:  Simulated random-cascade field.
+%    pfield1:  Simulated random-cascade field, DIM=[(Nx2^Nsta)x(Nx2^Nsta)].
 %
 % Last update: June 18, 2026. 
 % Authors:  Victor Penaranda-Velez (victor.penaranda[at]atmosfera.unam.mx)
