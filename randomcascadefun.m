@@ -44,7 +44,7 @@ if nargin==3
     
     Nsta = varargin{2};      % Number of stage in the random cascade
     
-    Nsim = varargin{1};      % Number of realizations
+    Nsim = varargin{3};      % Number of realizations
     
     % Fractal dimension of the source field
     
