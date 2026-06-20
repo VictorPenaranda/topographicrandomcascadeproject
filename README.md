@@ -3,7 +3,12 @@ This repository includes MATLAB's scripts of the Topographic Random Cascade (TRC
 > \[!TIP]
 > Technical details about the TRC model can be reviewed on the paper named: "[An Approach for Modeling the Orographic–Forcing Effect via Random Cascades and the Long-Term Statistics of Mexico City's Daily Precipitation](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023JD040023)".
 
-Last update: June 20, 2026. 
-Authors:  Victor Penaranda-Velez (victor.penaranda[at]atmosfera.unam.mx)
-          Carlos A. Ochoa-Moya (carlos.ochoa[at]atmosfera.unam.mx)
-          Arturo I. Quintanar (arturo.quintanar[at]atmosfera.unam.mx)
+**Last update:** June 20, 2026. 
+
+**Authors:**<br>
+Victor Penaranda-Velez (victor.penaranda@atmosfera.unam.mx) <br>
+Carlos A. Ochoa-Moya (carlos.ochoa@atmosfera.unam.mx) <br>
+Arturo I. Quintanar (arturo.quintanar@atmosfera.unam.mx) <br>
+
+**Institute for Atmospheric Sciences and Climate Change** <br>
+**Universidad Nacional Autónoma de México**
