@@ -3,6 +3,45 @@
 % ----------------------------------------------------------------------
 % ---------------- Source coarse-scale field: IMERG --------------------
 %-----------------------------------------------------------------------
+%-----------------------------------------------------------------------
+%
+% Syntax:
+%
+%    example_02
+%
+% Description:
+%
+%    This script is designed to execute the Topographic Random Cascade 
+%    algorithm utilizing long-term IMERG precipitation data. This script 
+%    exemplifies the overall procedure for obtaining a downscaled 
+%    high-resolution precipitation product based on the methodology 
+%    proposed by Penaranda-Velez et al. (2024). Users should adjust the 
+%    necessary parameters of this algorithm to achieve the most suitable 
+%    results according to their preferences.
+%
+%
+% Input arguments:
+%
+%    Z:            Digital elevation model with spatial, DIM=[MxM].
+%    pdata:        Coarse-scale precipitation data, DIM=[NxNxT].
+%    M:            Size of the spatial dimension, DIM=[1x1].
+%    T:            Size of the temporal dimension, DIM=[1x1].
+%    lon:          Longitud coordinates of the study region.
+%    lat:          Latitude coordinates of the study region.
+%    TI:           Temporal vector expressed in days since 1900-1-1 0:0:0.
+%    ncfilename:   Output NetCDF filename.
+%
+% Output arguments:
+%
+%    pfield3:  blockiness-corrected topographic-enhanced precipitation 
+%              field, DIM=[MxMxT].
+%
+% Last update: June 20, 2026. 
+% Authors:  Victor Penaranda-Velez (victor.penaranda[at]atmosfera.unam.mx)
+%           Carlos A. Ochoa-Moya (carlos.ochoa[at]atmosfera.unam.mx)
+%           Arturo I. Quintanar (arturo.quintanar[at]atmosfera.unam.mx)
+%-----------------------------------------------------------------------
+%-----------------------------------------------------------------------
 
 tic
 
