@@ -5,7 +5,7 @@ This repository includes MATLAB's scripts of the Topographic Random Cascade (TRC
 
 **Last update:** June 20, 2026. 
 
-**Authors:**<br>
+**Authors:** <br>
 Victor Penaranda-Velez (victor.penaranda@atmosfera.unam.mx) <br>
 Carlos A. Ochoa-Moya (carlos.ochoa@atmosfera.unam.mx) <br>
 Arturo I. Quintanar (arturo.quintanar@atmosfera.unam.mx) <br>
