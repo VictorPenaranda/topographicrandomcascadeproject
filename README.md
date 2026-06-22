@@ -13,7 +13,7 @@ This repository includes MATLAB's scripts of the Topographic Random Cascade (TRC
 * [forcing.m](https://github.com/VictorPenaranda/topographicrandomcascadeproject/blob/scripts/forcing.m)
 * [difussionfun.m](https://github.com/VictorPenaranda/topographicrandomcascadeproject/blob/scripts/diffusionfun.m)
 
-## MATLAB's Example
+## Examples / Applications
 
 * [CHIRPS](https://github.com/VictorPenaranda/topographicrandomcascadeproject/blob/scripts/example_01.m).
 * [IMERG](https://github.com/VictorPenaranda/topographicrandomcascadeproject/blob/scripts/example_02.m).
